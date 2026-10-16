@@ -1,5 +1,8 @@
 # MS Teams / SharePoint / Stream — Video & Transcript Downloader (Chrome Extension)
 
+> **This is a fork** of [brendangooden/ms-teams-sharepoint-downloader](https://github.com/brendangooden/ms-teams-sharepoint-downloader).
+> See **[FORK-NOTES.md](FORK-NOTES.md)** for what this project does and what this fork changes — in English, 中文 and 日本語.
+
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/hmljlkhcebhkkhbbafiheolbneecoinp?label=chrome%20web%20store&logo=googlechrome&logoColor=white&color=4285F4)](https://chromewebstore.google.com/detail/ms-teams-transcript-downl/hmljlkhcebhkkhbbafiheolbneecoinp)
 [![Users](https://img.shields.io/chrome-web-store/users/hmljlkhcebhkkhbbafiheolbneecoinp?label=users&color=34A853)](https://chromewebstore.google.com/detail/ms-teams-transcript-downl/hmljlkhcebhkkhbbafiheolbneecoinp)
 [![Rating](https://img.shields.io/chrome-web-store/rating/hmljlkhcebhkkhbbafiheolbneecoinp?label=rating&color=FBBC04)](https://chromewebstore.google.com/detail/ms-teams-transcript-downl/hmljlkhcebhkkhbbafiheolbneecoinp/reviews)
